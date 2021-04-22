@@ -1,0 +1,35 @@
+.faq{
+    margin: 60px 0 120px 0;
+}
+.faq-title {
+    margin-top: 30px;
+    font-size:45px;
+    line-height: 50px;
+    font-weight: 500;
+}
+.faq-items {
+    margin-top: 70px;
+}
+.faq-item {
+    display: flex;
+    margin-bottom: 30px;
+}
+.faq-item img{
+    width: 70px;
+    height: 70px;
+}
+
+.faq-text,
+.faq-subtext {
+    margin-top: -5px;
+    margin-left: 30px;
+    font-size: 18px;
+    line-height: 25px;
+    color: #3c3c3c;
+    font-family: 'Playfair Display', serif;
+    font-weight: 400;
+}
+.faq-subtext {
+    font-size: 16px;
+    color: #797979;
+}

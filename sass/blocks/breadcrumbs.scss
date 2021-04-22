@@ -1,0 +1,21 @@
+.breadcrumbs__list {
+    display: inline-block;
+}
+
+.breadcrumbs__list:not(:last-of-type)::after {
+    content: '';
+    margin: 0 5px;
+}
+
+.breadcrumbs__link {
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: 600;
+    color: #e2574c;
+    text-align: left;
+}
+.breadcrumbs__link-new {
+    font-weight: 700;
+    color: #797979;
+}
+

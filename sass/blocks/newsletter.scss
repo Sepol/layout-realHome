@@ -1,0 +1,43 @@
+.newsletter {
+    margin-top: 140px;
+    height: 178px;
+    background-color: #f3f2f2;
+}
+
+.newsletter__content{
+    padding: 65px 0;
+    display: flex;
+}
+
+.newsletter__title {
+    font-size: 37px;
+    line-height: 50px;
+    font-weight: 300;
+}
+.newsletter__title  span{
+    font-weight: 700;
+}
+
+.newsletter__form {
+    margin-left: 85px;
+    width: 390px;
+    height: 58px;
+}
+.newsletter__btn {
+    margin-left: 23px;
+    width: 153px;
+    height: 58px;
+}
+.newsletter__btn:focus{
+    background-color: #adadb1;
+}
+.newsletter__btn a{
+    font-size: 18px;
+    line-height: 60px;
+    text-decoration: none;
+    color: #fff;
+    font-weight: 700;
+}
+.newsletter__btn:focus a{
+    color: #fff;
+}

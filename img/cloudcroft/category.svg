@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10.844" height="16.219" viewBox="0 0 10.844 16.219">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #e6e6e6;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="ribbon" class="cls-1" d="M941.683,322a0.723,0.723,0,0,0,1.237-.508V307.663A1.666,1.666,0,0,0,941.254,306h-7.512a1.666,1.666,0,0,0-1.666,1.666v13.825a0.723,0.723,0,0,0,1.237.508l3.089-4.085a1.551,1.551,0,0,1,2.192,0Z" transform="translate(-932.062 -306)"/>
+</svg>

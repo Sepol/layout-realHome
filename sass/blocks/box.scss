@@ -1,0 +1,131 @@
+.box{
+    margin-top: 60px;
+}
+.box__wrapper{
+    display: grid;
+    grid-column-gap: 2rem;
+    grid-row-gap: 1rem;
+    grid-template-rows:  [content] auto [sidebar] auto;
+    grid-template-columns:  [content] 8fr [sidebar] 4fr;
+}
+.box__sidebar{
+    padding-top: 30px;
+}
+
+.box__title{
+    margin-top: 44px;
+    font-size: 45px;
+    line-height: 50px;
+    font-weight: 400;
+}
+
+.box__img{
+    margin-top: 40px;
+    height: 510px;
+    width: 734px;
+}
+.box__text{
+    position: relative;
+    margin-top: 40px;
+    max-width: 734px;
+    font-size: 16px;
+    line-height: 27px;
+    font-family: 'Playfair Display', serif;
+    font-weight: 400;
+}
+.box__btn{
+    margin: 38px 0 50px 0;
+    height: 48px;
+    width: 126px;
+}
+.box__text::after{
+    left: 0;
+    position: absolute;
+    content: "";
+    border-bottom: 2px solid #f0f4f5;
+    max-width:757px;
+    width: 100%;
+    margin-top: 165px;
+}
+.box__btn-link{
+    font-size: 16px;
+    line-height: 45px;
+    font-weight: 700;
+    color: #fff;
+    text-align: center;
+    text-decoration: none;
+}
+
+.box__sidebar{
+    width: 360px;
+    padding-left: 70px;
+}
+
+.categories,
+.archives,
+.recentposts{
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 35px;
+}
+
+.categories__link,
+.archives__link{
+    font-size: 16px;
+    line-height: 35px;
+    margin-top: 30px;
+    color: #797979;
+    text-decoration: none;
+}
+
+.archives{
+    font-weight: 600;
+    margin-top: 60px;
+    font-size: 20px;
+    line-height: 35px;
+}
+.recentposts{
+    margin-top: 40px;
+}
+.recentposts__descr{
+    margin-top: 38px;
+}
+.recentposts__title{
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 35px;
+}
+
+.recentposts__text{
+    font-size: 14px;
+    line-height: 24px;
+    font-family: 'Playfair Display', serif;
+    font-weight: 400;
+    color: #797979;
+}
+.recentposts__data{
+    font-size: 14px;
+    line-height: 35px;
+    font-family: 'Playfair Display', serif;
+    font-weight: 700;
+    
+}
+
+.box-pages{
+    margin: 55px 0 120px 0;
+    width: 310px;
+    display: flex;
+    justify-content: space-between;
+}
+.box-pages button{
+    width: 60px;
+    height: 60px;
+}
+.box-pages__link{
+    font-size: 18px;
+    line-height: 60px;
+    color: #fff;
+    font-weight: 700;
+    text-decoration: none;
+
+}

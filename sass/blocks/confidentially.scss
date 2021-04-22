@@ -1,0 +1,31 @@
+.confidentially {
+    text-align: center;
+    padding: 100px 0;
+    background: linear-gradient(360deg, #ffffff, #e9e8e8);
+}
+
+.confidentially-items {
+    display: flex;
+    justify-content: space-between;
+}
+.confidentially-item {
+    padding: 0 26px;
+}
+.confidentially-img {
+    width: 28px;
+    height: 26px;
+}
+.confidentially-title {
+    font-size: 20px;
+    line-height: 50px;
+    color: #3c3c3c;
+    font-weight: 500;
+
+}
+.confidentially-text {
+    font-size: 14px;
+    line-height: 24px;
+    color: #797979;
+    font-family: 'Playfair Display', serif;
+    font-weight: 400;
+}

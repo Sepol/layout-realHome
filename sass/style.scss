@@ -1,0 +1,77 @@
+
+* {
+    box-sizing: border-box;
+    font-family: 'Raleway', sans-serif;
+    /* font-family: 'Playfair Display', serif; */
+    margin: 0;
+    padding: 0;
+}
+
+ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+
+.container {
+    max-width: 1150px;
+    margin: 0 auto;
+}
+
+button {
+    background-color: #e2574c;
+    border-radius: 3px;
+    border: none;
+    cursor: pointer;
+    outline: none;
+
+}
+
+button:focus {
+    background-color: #f3f2f2;
+    transition: all .3s;
+}
+
+button:focus a {
+    color: #c2c1c1;
+}
+
+img {
+    width: 100%;
+    height: 100%;
+}
+
+a {
+    cursor: pointer;
+}
+
+.form {
+    padding: 0 20px;
+    border-radius: 3px;
+    border: 2px solid #e6e6e6;
+}
+
+@import 'libs';
+
+
+@import 'blocks/header';
+@import 'blocks/slider';
+@import 'blocks/deals';
+@import 'blocks/confidentially';
+@import 'blocks/properties'; 
+@import 'blocks/agents';   
+@import 'blocks/newhome'; 
+@import 'blocks/testimonials-slider'; 
+@import 'blocks/sponsors'; 
+@import 'blocks/breadcrumbs';
+@import 'blocks/about';
+@import 'blocks/team';
+@import 'blocks/newsletter';
+@import 'blocks/box';
+@import 'blocks/contacts';
+@import 'blocks/cloudcroft';
+@import 'blocks/architecture';
+@import 'blocks/catalog';
+@import 'blocks/FAQ';
+@import 'blocks/testimonials';
+@import 'blocks/footer';
