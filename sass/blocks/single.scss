@@ -1,7 +1,7 @@
-.cloudcroft{
+.single{
     margin-top: 60px;
 }
-.cloudcroft__wrapper{
+.single__wrapper{
     display: grid;
     grid-column-gap: 2rem;
     grid-row-gap: 1rem;
@@ -9,27 +9,27 @@
     grid-template-columns:  [content] 8fr [sidebar] 4fr;
 }
 
-.cloudcroft__title {
+.single__title {
     margin-top: 20px;
     font-size: 45px;
     line-height: 50px;
     font-weight: 500;
 }
-.cloudcroft__content-img{
+.single__content-img{
     margin-top: 65px;
     max-width: 757px;
     max-height: 510px;
     width: 100%;
     height: 100%;
 }
-.cloudcroft__object {
+.single__object {
     position: relative;
     margin-top: 30px;
     max-width: 757px;
     display: flex;
     justify-content: space-between;
 }
-.cloudcroft__object::after{
+.single__object::after{
     content: "";
     position: absolute;
     margin-top: 60px;
@@ -37,7 +37,7 @@
     max-width:757px;
     width: 100%;
 }
-.cloudcroft__object a{
+.single__object a{
     font-size: 19px;
     line-height: 26px;
     color: #e2574c;
@@ -46,23 +46,23 @@
     text-transform: uppercase;
 }
 
-.cloudcroft__subtitle {
+.single__subtitle {
     font-size: 37px;
     line-height: 65px;
     margin-top: 90px;
     font-weight: 300;
 }
-.cloudcroft__subtitle span{
+.single__subtitle span{
     font-weight: 500;
 }
-.cloudcroft__items {
+.single__items {
     margin-top: 50px;
     display: flex;
     max-width: 757px;
     justify-content: space-between;
     flex-wrap: wrap;
 }
-.cloudcroft__item img{
+.single__item img{
     max-width: 233px;
     max-height: 154px;
 }
@@ -80,7 +80,7 @@
     font-family: 'Playfair Display', serif;
     font-weight: 400;
 }
-.cloudcroft__comments{
+.single__comments{
     position: relative;
     font-size: 20px;
     line-height: 65px;
@@ -88,7 +88,7 @@
     margin: 65px 0 55px 0;
     font-weight: 700;
 }
-.cloudcroft__comments::after{
+.single__comments::after{
     content: "";
     position: absolute;
     border-bottom: 2px solid #f3f2f2;
@@ -98,7 +98,7 @@
     margin-top: 100px;
 }
 
-.cloudcroft__sidebar {
+.single__sidebar {
     margin-top: 130px;
     max-width: 345px;
     margin-left: 25px;
@@ -161,7 +161,7 @@
     width: 100%;
     margin-top: 115px;
 }
-.cloudcroft__sidebar-text {
+.single__sidebar-text {
     font-size: 14px;
     line-height: 24px;
     color: #797979;
@@ -170,12 +170,12 @@
     position: relative;
     margin-top: 75px;
 }
-.cloudcroft__sidebar-btn {
+.single__sidebar-btn {
     margin-top: 35px;
     width: 181px;
     height: 48px;
 }
-.cloudcroft__sidebar-btn a{
+.single__sidebar-btn a{
     font-weight: 700;
     color: #fff;
     font-size: 16px;

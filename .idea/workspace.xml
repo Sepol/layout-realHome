@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b92918ca-ae39-4681-b64b-45f5633bf4c9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/img/images/properties-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/images/properties-5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/RealHOME.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/RealHOME.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/about/about.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/images/about.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/agents/agents-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/agents/agents-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/agents/email.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/icons/email.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/agents/phone.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/icons/phone.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/architecture/architecture.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/images/architecture.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/architecture/author.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/images/author.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/architecture/icon_bird.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/social-icons/icon_bird.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/architecture/icon_counter.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/social-icons/icon_counter.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/architecture/icon_facebook.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/social-icons/icon_facebook.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/architecture/icon_google-plus.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/social-icons/icon_google-plus.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/architecture/icon_letter.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/social-icons/icon_letter.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/architecture/icon_pinterest.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/social-icons/icon_pinterest.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/architecture/icon_plus.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/social-icons/icon_plus.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/architecture/icon_printer.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/social-icons/icon_printer.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/architecture/icon_sofa.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/social-icons/icon_sofa.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/architecture/icon_twitter.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/social-icons/icon_twitter.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/box/box.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/images/box.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/box/posuere.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/images/posuere.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/box/volutpat.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/images/volutpat.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/catalog/catalog-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/images/catalog-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/catalog/catalog-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/images/catalog-2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/catalog/catalog-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/images/catalog-3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/catalog/catalog-4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/images/catalog-4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/catalog/catalog-5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/images/catalog-5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/catalog/catalog-6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/images/catalog-6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/catalog/catalog-7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/images/catalog-7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/catalog/catalog-8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/images/catalog-8.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/catalog/catalog-9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/images/catalog-9.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/cloudcroft/category.svg" beforeDir="false" afterPath="$PROJECT_DIR$/img/icons/category.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/cloudcroft/cloudcroft.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/images/single.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/cloudcroft/gallery.svg" beforeDir="false" afterPath="$PROJECT_DIR$/img/icons/gallery.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/cloudcroft/post-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/images/post-1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/cloudcroft/post-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/images/post-2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/cloudcroft/post-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/images/post-3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/confidentially/confidentially-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/icons/world.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/confidentially/confidentially-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/icons/bag.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/confidentially/confidentially-3.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/icons/pictures.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/confidentially/confidentially-4.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/icons/box.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icon__header-footer/f-iconheader.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/social-icons/facebook.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icon__header-footer/footer-logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/logo/footer-logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icon__header-footer/g+iconheader.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/social-icons/googlePlus.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icon__header-footer/header-logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/logo/header-logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icon__header-footer/inst-iconheader.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/social-icons/instagram.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icon__header-footer/p-iconheader.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/social-icons/pinterest.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/properties/properties-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/images/properties-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/properties/properties-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/images/properties-2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/properties/properties-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/images/properties-3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/sponsors/sponsors-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/images/sponsor-1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/sponsors/sponsors-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/images/sponsor-2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/sponsors/sponsors-3.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/images/sponsor-3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/sponsors/sponsors-4.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/images/sponsor-4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/sponsors/sponsors-5.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/images/sponsor-5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/team/andy.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/images/andy.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/team/maria.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/images/maria.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/team/phillip.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/images/phillip.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/team/stan.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/images/stan.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/testimonials-slider/testimonials-slider.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/testimonials-slider/slider.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/testimonials/testimonials-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/images/testimonials-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/testimonials/testimonials-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/images/testimonials-2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layout-realHome/img/sponsors/sponsors-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layout-realHome/img/sponsors/sponsors-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layout-realHome/img/sponsors/sponsors-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layout-realHome/img/sponsors/sponsors-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layout-realHome/img/sponsors/sponsors-5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layout-realHome/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/layout-realHome/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/blocks/agents.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/blocks/agents.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/blocks/architecture.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/blocks/architecture.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/blocks/box.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/blocks/blog.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/blocks/cloudcroft.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/blocks/single.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/blocks/confidentially.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/blocks/feature.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/blocks/footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/blocks/footer.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/blocks/newhome.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/blocks/newHome.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/blocks/newsletter.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/blocks/subscribe.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/blocks/testimonials-slider.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/blocks/testimonials-slider.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/style.scss" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1rWOj7TgHxRRpQv1BZN0UH7axvf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/img/images" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.toDoOptions" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\works\RealHOME\img\images" />
+      <recent name="D:\works\RealHOME\img\properties" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\works\RealHOME\img\images" />
+      <recent name="D:\works\RealHOME\img\icons" />
+      <recent name="D:\works\RealHOME\img\people" />
+      <recent name="D:\works\RealHOME\img\social-icons" />
+      <recent name="D:\works\RealHOME\img" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b92918ca-ae39-4681-b64b-45f5633bf4c9" name="Default Changelist" comment="" />
+      <created>1619088511577</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619088511577</updated>
+      <workItem from="1619088512986" duration="10102000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
