@@ -30,9 +30,9 @@ $(function () {
 });
 
 var li = document.getElementsByClassName('.header-menu').getElementsByTagName('li');
-	for(var i=0;i<li.length;i++){
-		li[i].onclick = function(){
-			for(var j=0;j<li.length;j++) li[j].className = '';
-			this.className = 'active';
-		}
-	}
+for (var i = 0; i < li.length; i++) {
+    li[i].onclick = function () {
+        for (var j = 0; j < li.length; j++) li[j].className = '';
+        this.className = 'active';
+    }
+}
